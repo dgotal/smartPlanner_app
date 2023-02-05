@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Smart Planner</string>
+
+
+    <string name="calendar">Calendar</string>
+    <string name="tasks">Tasks</string>
+    <string name="diagram">Diagram</string>
+
+    <string name="clock">Clock</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
